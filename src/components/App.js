@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import NewTaskInput from "./NewTaskInput";
-import TasksStats from "./TasksStats";
 import TasksListHeader from "./TasksListHeader";
 import TasksList from "./TasksList";
 
