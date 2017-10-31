@@ -1,0 +1,29 @@
+{
+  "short_name": "my tasks",
+  "name": "my tasks",
+  "icons": [{
+    "src": "images/favicon-128.png",
+    "type": "image/png",
+    "sizes": "128x128"
+  }, {
+    "src": "images/apple-touch-icon-152x152.png",
+    "type": "image/png",
+    "sizes": "152x152"
+  }, {
+    "src": "images/mstile-144x144.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }, {
+    "src": "images/favicon-512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }, {
+    "src": "images/favicon-192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#f7f7f7",
+  "background_color": "#f7f7f7"
+}

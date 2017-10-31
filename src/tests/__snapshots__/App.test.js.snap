@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main Component renders without crashing 1`] = `
+<div
+  className="App"
+>
+  <h2>
+    my tasks:
+  </h2>
+  <NewTaskInput
+    onAddNewTask={[Function]}
+  />
+  <TasksListHeader
+    tasks={Array []}
+    updateTasks={[Function]}
+  />
+  <TasksList
+    tasks={Array []}
+    updateTasks={[Function]}
+  />
+</div>
+`;

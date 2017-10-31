@@ -1,0 +1,29 @@
+.tasks-stats{
+  display: flex;
+  flex: 1;
+}
+
+.tasks-stats>div{
+  align-self: center
+}
+
+.secondary-stat{
+  font-size: 0.85em;
+  padding-left: 10px;
+  display: inline-block;
+}
+
+.tasks-stats .badge{
+  background: #777;
+  color: #fff;
+  padding: 3px 7px;
+  border-radius: 10px;
+  line-height: 1.1;
+  text-align: center;
+  margin-right: 3px;
+}
+
+.tasks-stats .badge-primary{
+  background: #dedede;
+  color: #333;
+}
